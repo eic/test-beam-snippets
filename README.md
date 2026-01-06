@@ -1,5 +1,8 @@
 # Test Beam Snippets
 
+**NOTICE:** this repository will be archived on January 30th, 2026. If you have a snippet to share, please contribute
+it to [snippets](https://github.com/eic/snippets).
+
 A repository to share code for Electron-Ion Collider (EIC) test beam, bench, setup, etc. analysis and operations.  Note that this
 repository is intended solely to share useful code snippets, and any code committed here has no guarantee of maintenance.
 
